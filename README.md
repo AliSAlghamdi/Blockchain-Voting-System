@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Untitled_logo_1_free-file.jpg" alt="SmartVoter Logo" width="200"/>
+</p>
+
 # 🗳️ Blockchain Voting System (SmartVoter)
 
 **Graduation Project - Taibah University (2024)**  
