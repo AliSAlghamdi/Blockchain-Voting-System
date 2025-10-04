@@ -47,5 +47,6 @@ It provides a decentralized platform where votes are **recorded permanently** an
 - Enhance security with multi-factor authentication for admin access  
 - Add mobile-friendly responsive design  
 
-## 📎 Documentation
-The full project documentation and report can be found in the `docs/` folder.
+📎 **Documentation**  
+The full project documentation and report can be found in the [📄 docs folder](./docs/A_Blockchain-based_Secure_Voting_System_final.pdf).
+
